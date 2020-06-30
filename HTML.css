@@ -1,0 +1,24 @@
+header{
+	background: #9c8c8cbf;
+	text-align: center;
+	padding: 15px;	
+}
+h2{
+	color: #736363;
+	background: #7bd8e6;
+}
+html{
+	background: #9c8c8c9c;
+}
+body{
+	margin: 4%;
+} 
+section{
+	width: 30%;
+	display: inline-block;
+	float: left;
+	margin-right: 2%;
+}
+figure{
+	clear: both;
+}
