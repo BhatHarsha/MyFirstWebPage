@@ -21,4 +21,26 @@ section{
 }
 figure{
 	clear: both;
+	background: #9c8c8cbf;
+	padding: 15px;
+}
+h1{
+	text-align: center;
+}
+a {
+	dispay: inline-block;
+	font-weight: bold;
+	color: #ffffff;
+	background-color: #0006CC;
+	width: 200px;
+	text-align:center;
+	padding: 4px;
+	text-decoration: none;
+}
+a:hover{
+	background-color:  #736363;
+	color: #000000;
+}
+img{
+	width: 100px;
 }
