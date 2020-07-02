@@ -13,11 +13,13 @@ html{
 body{
 	margin: 4%;
 } 
-section{
-	width: 30%;
+.half{
+	width: 45%;
 	display: inline-block;
 	float: left;
 	margin-right: 2%;
+	
+	
 }
 figure{
 	clear: both;
@@ -30,12 +32,12 @@ h1{
 a {
 	dispay: inline-block;
 	font-weight: bold;
-	color: #ffffff;
-	background-color: #0006CC;
+	color: purple;
+	
 	width: 200px;
 	text-align:center;
 	padding: 4px;
-	text-decoration: none;
+	text-decoration: underline;
 }
 a:hover{
 	background-color:  #736363;
@@ -43,4 +45,18 @@ a:hover{
 }
 img{
 	width: 100px;
+}
+
+header, figure{
+	background: linear-gradient(#e66465, #9198e5);
+}
+nav a{
+	width: 22%;
+	display: inline-block;
+	background-color: #ffffff;
+	text-decoration: none;
+
+}
+.whole{
+	clear: both;
 }
